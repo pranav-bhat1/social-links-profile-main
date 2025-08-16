@@ -2,6 +2,8 @@
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
+# Click Below for Live Project Demo
+(https://social-links-profile-main-one-beige.vercel.app/)
 
 ### Screenshot
 
@@ -11,12 +13,11 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: [Github source files](https://github.com/pranav-bhat1/social-links-profile-main.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live project Link](https://social-links-profile-main-one-beige.vercel.app/)
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@pranav-bhat1](https://www.frontendmentor.io/profile/pranav-bhat1)
+
 
